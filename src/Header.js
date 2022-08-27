@@ -4,7 +4,7 @@ import React from "react";
 
 function Header() {
   return <div>
-    <p>Sample react native</p>
+    <p>Gelay</p>
   </div>;
 }
 
