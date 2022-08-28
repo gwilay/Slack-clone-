@@ -4,7 +4,7 @@ import styled from "styled-components";
 function Header() {
   return (
     <HeaderContainer>
-      <h1>Gwilay</h1>
+      <h1>Negro</h1>
     </HeaderContainer>
   );
 } 
