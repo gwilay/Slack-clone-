@@ -12,7 +12,6 @@ function App() {
         <Routes>
            <Route path="/" element={<Header />}/>{/*Copy this pag may idadagdag dun sa YT just change the element*/}
             {/* <h1>This is my homepage</h1> outdated feature Removed. */}
-      
         </Routes>
       </BrowserRouter>
     </div>

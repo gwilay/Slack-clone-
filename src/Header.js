@@ -1,11 +1,16 @@
-// Example eto yung components mo
-
 import React from "react";
+import styled from "styled-components";
 
 function Header() {
-  return <div>
-    <p>Gelay</p>
-  </div>;
+  return (
+    <HeaderContainer>
+      <h1>Gulaay</h1>
+    </HeaderContainer>
+  );
 }
 
 export default Header;
+
+const HeaderContainer = styled.div`
+  color: red; // no need na ganyn ""
+`;
