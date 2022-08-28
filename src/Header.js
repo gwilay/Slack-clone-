@@ -4,10 +4,10 @@ import styled from "styled-components";
 function Header() {
   return (
     <HeaderContainer>
-      <h1>Gulaay</h1>
+      <h1>Gwilay</h1>
     </HeaderContainer>
   );
-}
+} 
 
 export default Header;
 
