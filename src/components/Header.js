@@ -18,7 +18,7 @@ function Header() {
 
     <HeaderSearch>
       <SearchIcon />
-      <input placeholder="Search PAPAFAM" />
+      <input placeholder="Search" />
     </HeaderSearch>
 
 
